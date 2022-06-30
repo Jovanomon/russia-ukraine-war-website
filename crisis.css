@@ -1,0 +1,66 @@
+#movingtitle{
+    color: white;
+    position: absolute
+    top: -10px;
+    font-size: 40px;
+}
+
+#title{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#infotitle{
+    font-size: 40px;
+    font-family: monospace;
+}
+
+#ABC {
+    background-color: darkblue;
+    height: 12%;    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  body{
+    background: lightskyblue;
+    margin: 0;
+    border-style:solid;
+    border-spacing: 30px;
+    border-color: yellow;
+    border-width: 4px;
+  } 
+#infosection{
+    float:left;
+    padding-left: 60px;
+    padding-top: 115px;
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+#image1{
+    float: right;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+#info2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+hr {
+    color: yellow;
+}
+
+#image2{
+    border-style: ridge;
+    border-width: 25px;
+}
+
+#donationlink{
+    color:black;
+}
